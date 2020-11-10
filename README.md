@@ -5,9 +5,11 @@ Home: http://github.com/neuroelf/isicarchive
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/isicarchive-feedstock/blob/master/LICENSE.txt)
 
 Summary: ISIC Archive API
+
+Development: https://github.com/neuroelf/isicarchive
 
 The ISIC Archive is an online repository and archive published and
 maintained by the International Skin Imaging Collaboration. Next to
